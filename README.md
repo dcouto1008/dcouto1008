@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Diego Couto
 
-<!--
-**dcouto1008/dcouto1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido/a a mi perfil de GitHub 🚀
 
-Here are some ideas to get you started:
+## 🧑‍💻 Sobre mí
+Soy estudiante de 1º de DAW y me interesa el mundo de la programación y la tecnología. Estoy empezando a construir proyectos para aprender y mejorar mis habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudiante de Desarrollo de aplicaciones Web
+- 💻 Aprendiendo programación (Jva / HTML / SQL...)
+- 🌱 Siempre en proceso de aprendizaje
+- 🚀 Me gusta crear proyectos y resolver problemas
+
+## 🛠️ Tecnologías que estoy aprendiendo
+- Java 🐍
+- HTML / CSS 🌐
+- JavaScript (básico)
+- Git & GitHub
+
+## 📂 Proyectos
+Aquí iré subiendo mis proyectos mientras aprendo:
+- Proyecto 1: Intermodular
+
+## 🎯 Objetivos
+- Mejorar como programador/a
+- Aprender nuevas tecnologías
+- Crear proyectos útiles y creativos
+- Prepararme para el futuro en informática
+
+## 📫 Contacto
+- Email: coutodiego53@gmail.com
+
+---
+
+⭐ Gracias por visitar mi perfil
