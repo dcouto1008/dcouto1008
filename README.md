@@ -11,8 +11,8 @@ Soy estudiante de 1º de DAW y me interesa el mundo de la programación y la tec
 - 🚀 Me gusta crear proyectos y resolver problemas
 
 ## 🛠️ Tecnologías que estoy aprendiendo
-- Java 🐍
-- HTML / CSS 🌐
+- Java 
+- HTML / CSS 
 - JavaScript (básico)
 - Git & GitHub
 
